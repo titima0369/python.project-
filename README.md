@@ -1,2 +1,2 @@
-# python.project-
+day 1 exercises 
 
